@@ -11,7 +11,7 @@ body {
 
 .container {
   height: 100%;
-  margin: 128px auto;
+  margin: 96px auto;
   font-family: "Poppins", sans-serif;
   display: flex;
   flex-direction: row;
@@ -42,7 +42,7 @@ div .time {
 }
 
 div .time-elements {
-  width: 136px;
+  width: 152px;
   display: flex;
   flex-direction: column;
   align-items: center;
