@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #262728;
+}
+
+.container {
+  height: 100%;
+  margin: 96px auto;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 40px 0;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #e4443f;
+}
+
+.countdown {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+div .time {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+div .time-elements {
+  width: 136px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+small,
+p {
+  font-weight: 200;
+  font-size: 14px;
+  color: #dfdfdf;
+}
+
+div .time h2 {
+  font-weight: 200;
+  font-size: 56px;
+  color: white;
+}
+
+button {
+  color: white;
+  padding: 12px 24px;
+  background-color: #e4443f;
+  border-style: none;
+  border-radius: 4px;
+  margin-top: 24px;
+  transition: 0.4s;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ce3631;
+}
+
+div > img {
+  width: 100%;
+}
