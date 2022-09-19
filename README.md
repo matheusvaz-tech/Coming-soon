@@ -15,6 +15,10 @@ O projeto acima foi criado como primeiro desafio da mentoria **_Conquiste Sua Va
 - Javascript;
 - Git e Github.
 
+## 💼 Rede profissional
+
+[🔗 Linkedin](https://www.linkedin.com/in/matheuxdesigner/)
+
 ## 📧 Contato
 
 matheusvaz.ux@gmail.com
