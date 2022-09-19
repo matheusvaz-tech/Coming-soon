@@ -17,5 +17,4 @@ O projeto acima foi criado como primeiro desafio da mentoria **_Conquiste Sua Va
 
 ## 📧 Contato
 
-[Clique aqui para mandar mensagem via Whatsapp](https://api.whatsapp.com/send?phone=5598985973187&text=Ol%C3%A1%2C%20Matheus!)
 matheusvaz.ux@gmail.com
