@@ -7,16 +7,17 @@
 
 body {
   background-color: #262728;
+  padding: 40px 0;
 }
 
 .container {
+  margin: 72px auto;
   height: 100%;
   font-family: "Poppins", sans-serif;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
-  padding: 40px 0;
 }
 
 h1 {
@@ -74,6 +75,13 @@ button:hover {
   background-color: #ce3631;
 }
 
-div > img {
-  width: 100%;
+div > svg {
+  padding: 40px;
+}
+
+@media (width: 480px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
 }
