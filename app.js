@@ -5,7 +5,7 @@ const seconds = document.querySelector(".seconds");
 
 const currentChallenge = new Date().getFullYear();
 
-const newChallengeTime = new Date(`September 24 2022 00:00:00`);
+const newChallengeTime = new Date(`September 30 2022 23:59:59`);
 
 function updateCountdownTime() {
   const currentChallenge = new Date();
