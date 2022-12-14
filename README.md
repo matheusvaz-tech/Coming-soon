@@ -6,7 +6,7 @@
 
 O projeto acima foi criado como primeiro desafio da mentoria **_Conquiste Sua Vaga_**, com a finalidade de fixar conhecimentos da stack front-end e com o objetivo de conseguir minha primeira vaga na área.
 
-[🔗 Clique aqui para acessar o site](https://matheusvaz-dev.github.io/Coming-soon/)
+[🔗 Clique aqui para acessar o site](https://matheusvaz-tech.github.io/Coming-soon/)
 
 ## 🛠️ Tecnologias
 
@@ -17,7 +17,7 @@ O projeto acima foi criado como primeiro desafio da mentoria **_Conquiste Sua Va
 
 ## 💼 Rede profissional
 
-[🔗 Linkedin](https://www.linkedin.com/in/matheuxdesigner/)
+[🔗 Linkedin](https://www.linkedin.com/in/matheusvaz-tech/)
 
 ## 📧 Contato
 
